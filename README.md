@@ -1,4 +1,4 @@
-# CODE_OF_CONDUCT
+# github-final-project
 Repo for GIT certification by IBM
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
